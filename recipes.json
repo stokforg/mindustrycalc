@@ -25,9 +25,11 @@
    "name":"Salvo",
    "wiki_link":null,
    "type":"Mindustry",
-   "recipe":[
+   "category":"Mindustry",
+   "recipe":
       {
          "time":0,
+         "yield":0,
          "ingredients":[
             {
                "id":"copper",
@@ -41,11 +43,9 @@
                "id":"titanium",
                "amount":"50"
             }
-         ],
-         "yield":0
+         ]
+         
       }
-   ],
-   "category":"Mindustry"
 },
    {
       "id":"core",
