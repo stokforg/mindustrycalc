@@ -23,25 +23,25 @@
    {
    "id":"salvo",
    "name":"Salvo",
-   "wiki_link":null,
+   "wiki_link":"https://wiki.factorio.com/Accumulator",
    "type":"Mindustry",
    "category":"Mindustry",
    "recipe":
       {
-         "time":0,
-         "yield":0,
+         "time":1,
+         "yield":1,
          "ingredients":[
             {
                "id":"copper",
-               "amount":"100"
+               "amount":100
             },
             {
                "id":"graphite",
-               "amount":"80"
+               "amount":80
             },
             {
                "id":"titanium",
-               "amount":"50"
+               "amount":50
             }
          ]
          
@@ -4800,8 +4800,8 @@
    "wiki_link":"",
    "category":"Mindustry",
    "recipe":{
-      "time":"null",
-      "yield":"null",
+      "time":1,
+      "yield":1,
       "ingredients":[
          
       ]
@@ -4814,8 +4814,8 @@
    "wiki_link":"",
    "category":"Mindustry",
    "recipe":{
-      "time":"null",
-      "yield":"null",
+      "time":1,
+      "yield":1,
       "ingredients":[
          
       ]
@@ -4824,12 +4824,12 @@
    {
    "id":"graphite",
    "name":"Graphite",
-   "type":"Resource",
+   "type":"Machinery",
    "wiki_link":"",
    "category":"Mindustry",
    "recipe":{
-      "time":"null",
-      "yield":"null",
+      "time":1,
+      "yield":1,
       "ingredients":[
          {
                "id":"coal",
