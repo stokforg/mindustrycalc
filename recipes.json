@@ -4824,7 +4824,7 @@
    {
    "id":"graphite",
    "name":"Graphite",
-   "type":"Machinery",
+   "type":"Intermediate product",
    "wiki_link":"",
    "category":"Mindustry",
    "recipe":{
