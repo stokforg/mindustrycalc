@@ -21,6 +21,33 @@
       }
    },
    {
+   "id":"salvo",
+   "name":"Salvo",
+   "wiki_link":null,
+   "type":"Mindustry",
+   "recipe":[
+      {
+         "time":0,
+         "ingredients":[
+            {
+               "id":"copper",
+               "amount":"100"
+            },
+            {
+               "id":"graphite",
+               "amount":"80"
+            },
+            {
+               "id":"titanium",
+               "amount":"50"
+            }
+         ],
+         "yield":0
+      }
+   ],
+   "category":"Mindustry"
+},
+   {
       "id":"core",
       "name":"core-acropolis",
       "type":"Mindustry",
@@ -4765,5 +4792,64 @@
             }
          ]
       }
+   },
+   {
+   "id":"copper",
+   "name":"Copper",
+   "type":"Resource",
+   "wiki_link":"",
+   "category":"Mindustry",
+   "recipe":{
+      "time":"null",
+      "yield":"null",
+      "ingredients":[
+         
+      ]
    }
+},
+   {
+   "id":"coal",
+   "name":"Coal",
+   "type":"Resource",
+   "wiki_link":"",
+   "category":"Mindustry",
+   "recipe":{
+      "time":"null",
+      "yield":"null",
+      "ingredients":[
+         
+      ]
+   }
+},
+   {
+   "id":"titanium",
+   "name":"Titanium",
+   "type":"Resource",
+   "wiki_link":"",
+   "category":"Mindustry",
+   "recipe":{
+      "time":"null",
+      "yield":"null",
+      "ingredients":[
+         
+      ]
+   }
+},
+   {
+   "id":"graphite",
+   "name":"Graphite",
+   "type":"Resource",
+   "wiki_link":"",
+   "category":"Mindustry",
+   "recipe":{
+      "time":"null",
+      "yield":"null",
+      "ingredients":[
+         {
+               "id":"coal",
+               "amount":2
+            }
+      ]
+   }
+}
 ]
