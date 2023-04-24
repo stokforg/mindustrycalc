@@ -4808,20 +4808,6 @@
    }
 },
    {
-   "id":"coal",
-   "name":"Coal",
-   "type":"Resource",
-   "wiki_link":"",
-   "category":"Mindustry",
-   "recipe":{
-      "time":"null",
-      "yield":"null",
-      "ingredients":[
-         
-      ]
-   }
-},
-   {
    "id":"titanium",
    "name":"Titanium",
    "type":"Resource",
