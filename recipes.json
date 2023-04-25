@@ -790,20 +790,6 @@
       }
    },
    {
-      "id":"coal",
-      "name":"Coal",
-      "type":"Resource",
-      "wiki_link":"https://wiki.factorio.com/Coal",
-      "category":"Intermediate product",
-      "recipe":{
-         "time":null,
-         "yield":null,
-         "ingredients":[
-            
-         ]
-      }
-   },
-   {
       "id":"combat-shotgun",
       "name":"Combat shotgun",
       "type":"Combat",
@@ -4808,20 +4794,6 @@
    }
 },
    {
-   "id":"titanium",
-   "name":"Titanium",
-   "type":"Resource",
-   "wiki_link":"",
-   "category":"Mindustry",
-   "recipe":{
-      "time":1,
-      "yield":1,
-      "ingredients":[
-         
-      ]
-   }
-},
-   {
    "id":"graphite",
    "name":"Graphite",
    "type":"Intermediate product",
@@ -4837,5 +4809,320 @@
             }
       ]
    }
-}
+},
+   {
+      "id":"silicon",
+      "name":"Silicon",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            {
+               "id":"sand",
+               "amount":2
+            },
+            {
+               "id":"coal",
+               "amount":1
+            }
+         ]
+      }
+   },
+   {
+      "id":"scrap",
+      "name":"Scrap",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"thorium",
+      "name":"Thorium",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"titanium",
+      "name":"Titanium",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"coal",
+      "name":"Coal",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"sand",
+      "name":"Sand",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"metaglass",
+      "name":"Metaglass",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+             {
+               "id":"lead",
+               "amount":1
+            },
+            {
+               "id":"lead",
+               "amount":1
+            }           
+         ]
+      }
+   },
+   {
+      "id":"carbide",
+      "name":"Carbide",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            {
+               "id":"tungsten",
+               "amount":2
+            },
+            {
+               "id":"graphite",
+               "amount":3
+            }            
+         ]
+      }
+   },
+   {
+      "id":"oxide",
+      "name":"Oxide",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"tungsten",
+      "name":"Tungsten",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"beryllium",
+      "name":"Beryllium",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"pyratite",
+      "name":"Pyratite",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+                        {
+               "id":"sand",
+               "amount":2
+            },
+            {
+               "id":"coal",
+               "amount":1
+            },            {
+               "id":"lead",
+               "amount":2
+            }
+         ]
+      }
+   },
+   {
+      "id":"blast-compound",
+      "name":"Blast Compound",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            {
+               "id":"pyratite",
+               "amount":1
+            },
+            {
+               "id":"spore-pod",
+               "amount":1
+            }            
+         ]
+      }
+   },
+   {
+      "id":"spore-pod",
+      "name":"Spore Pod",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   },
+   {
+      "id":"surge-alloy",
+      "name":"Surge Alloy",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+             {
+               "id":"copper",
+               "amount":3
+            },
+            {
+               "id":"lead",
+               "amount":4
+            },
+              {
+               "id":"titanium",
+               "amount":2
+            },
+            {
+               "id":"silicon",
+               "amount":3
+            }
+         ]
+      }
+   },
+   {
+      "id":"phase-fabric",
+      "name":"Phase Fabric",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            {
+               "id":"thorium",
+               "amount":4
+            },
+            {
+               "id":"sand",
+               "amount":10
+            }            
+         ]
+      }
+   },
+   {
+      "id":"plastanium",
+      "name":"Plastanium",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            {
+               "id":"titanium",
+               "amount":2
+            }          
+         ]
+      }
+   },
+   {
+      "id":"lead",
+      "name":"Lead",
+      "type":"Resource",
+      "wiki_link":null,
+      "category":"Mindustry",
+      "recipe":{
+         "time":0,
+         "yield":0,
+         "ingredients":[
+            
+         ]
+      }
+   }
 ]
