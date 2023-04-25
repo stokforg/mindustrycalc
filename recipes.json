@@ -4813,7 +4813,7 @@
    {
       "id":"silicon",
       "name":"Silicon",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -4904,7 +4904,7 @@
    {
       "id":"metaglass",
       "name":"Metaglass",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -4925,7 +4925,7 @@
    {
       "id":"carbide",
       "name":"Carbide",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -4988,7 +4988,7 @@
    {
       "id":"pyratite",
       "name":"Pyratite",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -5012,7 +5012,7 @@
    {
       "id":"blast-compound",
       "name":"Blast Compound",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -5033,7 +5033,7 @@
    {
       "id":"spore-pod",
       "name":"Spore Pod",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -5047,7 +5047,7 @@
    {
       "id":"surge-alloy",
       "name":"Surge Alloy",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -5076,7 +5076,7 @@
    {
       "id":"phase-fabric",
       "name":"Phase Fabric",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
@@ -5097,7 +5097,7 @@
    {
       "id":"plastanium",
       "name":"Plastanium",
-      "type":"Resource",
+      "type":"Mindustry",
       "wiki_link":null,
       "category":"Mindustry",
       "recipe":{
